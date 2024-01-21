@@ -1,8 +1,8 @@
 - https://www.ontario.ca/page/ontario-business-registry#section-1
 - "Search for a business or not-for-profit corporation"
 
-# Incorporated non-profits in Ontario
-## Engsoc
+# Incorporated Student-Run Groups in Ontario
+## EngSoc
 Acronym | Org Name | Incorporated Name | Number | Type | Date
 ---------|----------|---------|---------|---------|---------
  CFES | Canadian Federation of Engineering Students | LA FEDERATION CANADIENNE DES ETUDIANTS ET ETUDIANTES EN GENIE (FCEEG) THE CANADIAN FEDERATION OF ENGINEERING STUDENTS (CFES) | 378841 | Extra-Provincial Federal Corporation Non-Share | September 06, 1977
@@ -15,11 +15,10 @@ Acronym | Org Name | Incorporated Name | Number | Type | Date
 
 Acronym | Org Name | Incorporated Name | Number | Type | Date
 ---------|----------|---------|---------|---------|---------
-  | |  | Carleton Commerce Society | 416494 | Extra-Provincial Federal Corporation Non-Share | September 21, 1978
+  |  |  | Carleton Commerce Society | 416494 | Extra-Provincial Federal Corporation Non-Share | September 21, 1978
   |  |  | Carleton Computer Science Society |  | Not-for-Profit Corporation | December 03, 2010
 
-
-## Student Group
+## Student Clubs
 Acronym | Org Name | Incorporated Name | Number | Type | Date
 ---------|----------|---------|---------|---------|---------
  | Ca2rc | Carleton Aerospace Astrophysics Radio Club | Carleton Aerospace Astrophysics Radio Club | 1000443037 | February 13, 2023 | Not-for-Profit Corporation
